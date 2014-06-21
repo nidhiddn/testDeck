@@ -1,7 +1,7 @@
 testDeck
 ========
 
-This is a test deck for publishing a slidify document.
+This is a test deck for publishing a slidify presentation.
 
 Fork this repo.
 
@@ -9,7 +9,7 @@ Make an edit to this readme file on gh-pages branch. (You can do this directly o
 
 Commit the change.
 
-Go to username.github.io/testDeck/index.html
+Go to nidhiddn.github.io/test/index.html
 And the presentation should be rendered
 
 
